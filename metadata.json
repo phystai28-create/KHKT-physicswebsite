@@ -1,0 +1,8 @@
+{
+  "name": "Remix Phòng Thí Nghiệm Cộng Hưởng Vật Lí 11",
+  "description": "Website mô phỏng thực tế chương Dao động (Vật lí 11) - Khảo sát hiện tượng cộng hưởng cơ học qua tình huống đoàn quân qua cầu treo dành cho học sinh THPT FPT Cần Thơ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
